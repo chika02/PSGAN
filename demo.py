@@ -70,3 +70,5 @@ def main(save_path='transferred_image.png'):
 
 if __name__ == '__main__':
     main()
+
+#git test
